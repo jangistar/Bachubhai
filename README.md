@@ -1,4 +1,4 @@
-# `Notice: we will update credits soon as we get this bot done, still few things are under process so don't worry.
+# `Notice: we will update credits soon as we get this bot done, still few things are under process so don't worry.`
 # Warning: Use this repo at your own risk
 # Major Warning: this bot is still in the development phase so wait till it's done or don't blame us, thank you
 # Copy and Paste the below command will do all the Magic 
