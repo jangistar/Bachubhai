@@ -30,8 +30,6 @@
 - sudo pip install google
 - sudo pip install google-api-python-client
 - sudo pip install --upgrade google-api-python-client
-- sudo git clone https://github.com/your-user-name/your-repo
-- cd your-repo
 - sudo pip3 install -r requirements.txt
 - sudo python3 -m pip install numpy
 - sudo python3 -m pip install pycolor
@@ -44,6 +42,8 @@
 - sudo pip install pygithub
 - sudo python3 -m pip install 'telegraph[aio]'
 - sudo pip install beautifulsoup4
+- sudo git clone https://github.com/your-user-name/your-repo
+- cd your-repo
 - sudo pip3 install -r requirements.txt (IF ANY ERROR OCCURS IGNORE IT THIS TIME)
 - sudo python3 -m stdborg [any one number from 1 to 9]
 
