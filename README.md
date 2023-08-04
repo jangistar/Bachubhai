@@ -11,9 +11,9 @@
 
 # installing BotHub with ubuntu terminal   
 
-sudo apt install libleveldb-dev
-sudo apt-get update
-sudo apt-get upgrade
+- sudo apt install libleveldb-dev
+- sudo apt-get update
+- sudo apt-get upgrade
 sudo apt install libffi-dev libssl-dev
 sudo apt install git-all
 sudo apt install python3
