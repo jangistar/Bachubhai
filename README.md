@@ -30,7 +30,6 @@
 - sudo pip install google
 - sudo pip install google-api-python-client
 - sudo pip install --upgrade google-api-python-client
-- sudo pip3 install -r requirements.txt
 - sudo python3 -m pip install numpy
 - sudo python3 -m pip install pycolor
 - sudo python3 -m pip install psycopg
